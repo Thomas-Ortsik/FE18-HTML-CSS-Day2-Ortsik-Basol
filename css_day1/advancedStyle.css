@@ -1,0 +1,29 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+header {
+    outline-style: double;
+    position: sticky;
+    top: 0;
+    background-color: white;
+}
+
+.byline li {
+    list-style-type:square;
+}
+
+#summary {
+    color: grey;
+    max-width: 600px;
+}
+
+#summary img {width: 600px;}
+
+main blockquote {
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    font-size: large;
+    background-color: beige;
+    color: darkblue;
+
+}
